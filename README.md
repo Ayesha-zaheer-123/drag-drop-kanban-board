@@ -22,11 +22,14 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 | JavaScript (ES6) | Drag-and-drop logic & DOM manipulation |
 
 ## 📂 Project Structure
+
+```
 kanban-board/
 ├── index.html      # Main HTML structure
-├── style.css       # Styling and responsive layout
-├── index.js        # Drag-and-drop functionality
+├── style.css        # Styling and responsive layout
+├── index.js         # Drag-and-drop functionality
 └── README.md
+```
 
 ## ⚙️ How It Works
 
