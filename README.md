@@ -23,10 +23,11 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 
 ## 📂 Project Structure
 kanban-board/
-├── index.html # Main HTML structure
-├── style.css # Styling and responsive layout
-├── index.js # Drag-and-drop functionality
+├── index.html      # Main HTML structure
+├── style.css       # Styling and responsive layout
+├── index.js        # Drag-and-drop functionality
 └── README.md
+
 ## ⚙️ How It Works
 
 1. Each task card has `draggable="true"` and a `dragstart` event that stores its ID
@@ -46,18 +47,9 @@ cd kanban-board
 # Open index.html in your browser
 ```
 
-No build tools or dependencies required — just open `index.html` directly.
+No build tools or dependencies required  just open `index.html` directly.
 
-## 🌱 Future Improvements
-
-- [ ] Add new cards dynamically via an input field
-- [ ] Persist board state using LocalStorage
-- [ ] Add delete/edit functionality for cards
-- [ ] Add card counters per column
 
 ## 👩‍💻 Author
 
 **Ayesha Zaheer**
-| JavaScript (ES6) | Drag-and-drop logic & DOM manipulation |
-
-## 📂 Project Structure
