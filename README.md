@@ -17,9 +17,9 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 
 | Technology | Purpose |
 |------------|---------|
-| HTML5 | Structure & semantic markup |
+| HTML5 | Structure and semantic markup |
 | CSS3 | Styling, layout (Flexbox), and responsiveness |
-| JavaScript (ES6) | Drag-and-drop logic & DOM manipulation |
+| JavaScript (ES6) | Drag-and-drop logic and DOM manipulation |
 
 ## 📂 Project Structure
 
