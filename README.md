@@ -8,6 +8,7 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 
 ## ✨ Features
 
+
 - **Drag & Drop Cards** — Move tasks freely between "To Do", "In Progress", and "Done" columns
 - **Visual Drop Feedback** — Columns highlight when a card is dragged over them
 - **Responsive Design** — Adapts to tablet and mobile screens using media queries
