@@ -43,7 +43,7 @@ kanban-board/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ayesha-zaheer-123/kanban-board.git
+git clone https://github.com/Ayesha-zaheer-123/drag-drop-kanban-board.git
 
 # Navigate to project folder
 cd kanban-board
