@@ -1,4 +1,4 @@
-# 📋 Simple Kanban Board
+#  Simple Kanban Board
 
 A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS, and JavaScript** no frameworks, no libraries. This project demonstrates core DOM manipulation and the native HTML5 Drag & Drop API.
 
@@ -6,7 +6,7 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## ✨ Features
+##  Features
 
 
 - **Drag & Drop Cards** — Move tasks freely between "To Do", "In Progress", and "Done" columns
@@ -14,7 +14,7 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 - **Responsive Design** — Adapts to tablet and mobile screens using media queries
 - **Zero Dependencies** — Built entirely with vanilla JS and the native Drag & Drop API
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -22,7 +22,7 @@ A clean, responsive **drag-and-drop Kanban board** built using pure **HTML, CSS,
 | CSS3 | Styling, layout (Flexbox), and responsiveness |
 | JavaScript (ES6) | Drag-and-drop logic and DOM manipulation |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 kanban-board/
@@ -32,14 +32,14 @@ kanban-board/
 └── README.md
 ```
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Each task card has `draggable="true"` and a `dragstart` event that stores its ID
 2. Each list column listens for `dragover`, `dragenter`, `dragleave`, and `drop` events
 3. On drop, the card is appended to the new list using the stored ID
 4. A CSS class (`.over`) is toggled to give visual feedback while dragging over a column
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 ```bash
 # Clone the repository
@@ -54,6 +54,6 @@ cd kanban-board
 No build tools or dependencies required  just open `index.html` directly.
 
 
-## 👩‍💻 Author
+##  Author
 
 **Ayesha Zaheer**
